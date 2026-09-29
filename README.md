@@ -1,7 +1,6 @@
 # Claudin-dependent clonal expansion couples epicardial activation to regenerative fate acquisition
 
 Contains source code for simulations and data analysis shown in Kagioglu et al., 2026.
-If you want to run the notebooks locally please note they use Python 3.12.4 and the libraries numpy, scipy, matplotlib, pandas, random and seaborn.
 
-Zenodo 
+If you want to run the notebooks locally please note they use Python 3.12.4 and the libraries numpy, scipy, matplotlib, pandas, random and seaborn.
 

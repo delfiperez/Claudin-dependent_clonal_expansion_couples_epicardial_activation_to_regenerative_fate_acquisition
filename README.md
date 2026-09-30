@@ -1,4 +1,4 @@
-# Claudin-dependent clonal expansion couples epicardial activation to regenerative fate acquisition
+# Kagioglu et al., 2026.
 
 Contains source code for simulations and data analysis shown in Kagioglu et al., 2026.
 
